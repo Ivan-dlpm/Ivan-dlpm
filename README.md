@@ -27,7 +27,7 @@
 <h2>🌳 Enviromental Economics project</h2>
 
 - <b>Assessing Economic Impact of Flooding in Lodi, NJ</b>
-  - [Permeable Pavement Project](README.md)
+  - [Permeable Pavement Project](https://github.com/Ivan-dlpm/Enviromental-Economics-)
 
 <h2> </h2> 
 <h2>🗺️ GIS project</h2>
