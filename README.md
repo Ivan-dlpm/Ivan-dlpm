@@ -33,7 +33,7 @@
 <h2>🗺️ GIS project</h2>
 
 - <b>A GIS Analysis of Nonprofit Service Distribution in Montclair, NJ</b>
-  - [Mapping Equity](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Mapping Equity](https://github.com/Ivan-dlpm/Mapping-Equity/tree/main)
 
 <h2> You have reached the end of my portfolio </h2>
 
