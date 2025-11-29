@@ -3,7 +3,8 @@
 <h2>👨‍💻 Data Analytics Projects</h2>
 
 - <b>Structured Query Language (SQL)</b>
-  - [Praciting DS & Algos in Python]()
+  - [MySQL Data Cleaning and Preparation Project]()
+  - [MySQL Exploratory Data Analysis (EDA) Project]()
 - <b>Excel</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Python</b>
@@ -18,7 +19,7 @@
 <h2>👨‍💻 Data Visualization Projects</h2>
 
 - <b>Tableau</b>
-  - [Airbnb project](https://public.tableau.com/app/profile/ivan.de.la.paz/viz/AirbnbFullproject_17595288420480/Dashboard1)
+  - [ Multi-Dataset Dashboard for Airbnb Rental Analysis](https://github.com/Ivan-dlpm/Airbnb-project-/tree/main)
 - <b>PowerBI</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 
