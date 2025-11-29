@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analytics Projects</h2>
 
 - <b>Structured Query Language (SQL)</b>
-  - [MySQL Data Cleaning and Preparation Project]()
+  - [Global Layoffs Data Cleaning Project]()
   - [MySQL Exploratory Data Analysis (EDA) Project]()
 - <b>Excel</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
