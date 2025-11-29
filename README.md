@@ -4,7 +4,7 @@
 
 - <b>Structured Query Language (SQL)</b>
   - [Global Layoffs Data Cleaning Project](https://github.com/Ivan-dlpm/Global-Layoffs-Data-Cleaning-Project/tree/main)
-  - [MySQL Exploratory Data Analysis (EDA) Project]()
+  - [MySQL Exploratory Data Analysis (EDA) Project](https://github.com/Ivan-dlpm/MySQL-Exploratory-Data-Analysis-EDA-Project/tree/main)
 - <b>Excel</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Python</b>
