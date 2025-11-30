@@ -11,10 +11,7 @@
   - [Python Automation: Dynamic File Sorting](https://github.com/Ivan-dlpm/Python-Automation-Dynamic-File-Sorting/tree/main)
   - [Python BMI_calculator](https://github.com/Ivan-dlpm/Python-Automation-Dynamic-File-Sorting/tree/main)
 - <b>Pandas</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Web Scraping and DataFrame Construction with BeautifulSoup & Pandas](https://github.com/joshmadakor1/Sentinel-Lab)
 
  <h2></h2>
 <h2>👨‍💻 Data Visualization Projects</h2>
