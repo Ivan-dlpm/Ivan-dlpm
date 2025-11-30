@@ -6,7 +6,7 @@
   - [Global Layoffs Data Cleaning Project](https://github.com/Ivan-dlpm/Global-Layoffs-Data-Cleaning-Project/tree/main)
   - [MySQL Exploratory Data Analysis (EDA) Project](https://github.com/Ivan-dlpm/MySQL-Exploratory-Data-Analysis-EDA-Project/tree/main)
 - <b>Excel</b>
-  - [Excel Data Analysis Project: Bike Purchase Trends](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Excel Data Analysis Project: Bike Purchase Trends](https://github.com/Ivan-dlpm/Excel-Data-Analysis-Project-Bike-Purchase-Trends/tree/main)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Pandas</b>
