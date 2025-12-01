@@ -13,7 +13,7 @@
 - <b>Pandas</b>
   - [Web Scraping and DataFrame Construction with BeautifulSoup & Pandas](https://github.com/Ivan-dlpm/Web-Scraping-and-DataFrame-Construction-with-BeautifulSoup-Pandas/tree/main)
 - <b>Rstudio</b>
-  - [Modeling Student Performance: A Multiple Regression Analysis Using R]()
+  - [Modeling Student Performance: A Multiple Regression Analysis Using R](https://github.com/Ivan-dlpm/Regression-Analysis-Using-R/tree/main)
 
  <h2></h2>
 <h2>👨‍💻 Data Visualization Projects</h2>
