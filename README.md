@@ -12,7 +12,7 @@
   - [Python BMI_calculator](https://github.com/Ivan-dlpm/Python-Automation-Dynamic-File-Sorting/tree/main)
 - <b>Pandas</b>
   - [Web Scraping and DataFrame Construction with BeautifulSoup & Pandas](https://github.com/Ivan-dlpm/Web-Scraping-and-DataFrame-Construction-with-BeautifulSoup-Pandas/tree/main)
-- <b>Rstudio</b>
+- <b>RStudio</b>
   - [Modeling Student Performance: A Multiple Regression Analysis Using R](https://github.com/Ivan-dlpm/Regression-Analysis-Using-R/tree/main)
 
  <h2></h2>
