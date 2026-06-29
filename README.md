@@ -35,6 +35,15 @@
 - <b>A GIS Analysis of Nonprofit Service Distribution in Montclair, NJ</b>
   - [Mapping Equity](https://github.com/Ivan-dlpm/Mapping-Equity/tree/main)
 
+ ## 🏛️ Township of Montclair – Data Analytics Internship
+
+*Contributed spatial analysis, data research, and policy reporting to municipal sustainability initiatives.*
+
+- **Where Deer Meet Roads: Deer-Vehicle Incident Spatial & Temporal Analysis**
+  - [Montclair-Deer-Vehicle-Analysis](https://github.com/Ivan-dlpm/Montclair-Deer-Vehicle-Analysis)
+- **Montclair Community Energy Plan – Community Overview**
+  - [Montclair-Community-Energy-Plan](https://github.com/Ivan-dlpm/Montclair-Community-Energy-Plan)
+
 <h2> You have reached the end of my portfolio </h2>
 
 - <b>Thank you for being here! more to come in the future 👍</b>
