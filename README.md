@@ -35,7 +35,8 @@
 - <b>A GIS Analysis of Nonprofit Service Distribution in Montclair, NJ</b>
   - [Mapping Equity](https://github.com/Ivan-dlpm/Mapping-Equity/tree/main)
 
- ## 🏛️ Township of Montclair – Data Analytics Internship
+<h2> </h2> 
+<h2>🏛️ Township of Montclair – Data Analytics Internship</h2>
 
 *Contributed spatial analysis, data research, and policy reporting to municipal sustainability initiatives.*
 
